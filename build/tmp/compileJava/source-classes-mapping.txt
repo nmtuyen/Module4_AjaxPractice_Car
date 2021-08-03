@@ -1,0 +1,36 @@
+com/codegym/service/typeCar/ITypeCarService.java
+ com.codegym.service.typeCar.ITypeCarService
+com/codegym/service/producer/ProducerService.java
+ com.codegym.service.producer.ProducerService
+com/codegym/configuration/AppInit.java
+ com.codegym.configuration.AppInit
+com/codegym/service/car/ICarService.java
+ com.codegym.service.car.ICarService
+com/codegym/configuration/AppConfig.java
+ com.codegym.configuration.AppConfig
+com/codegym/service/producer/IProducerService.java
+ com.codegym.service.producer.IProducerService
+com/codegym/model/TypeCar.java
+ com.codegym.model.TypeCar
+com/codegym/controller/TypeCarController.java
+ com.codegym.controller.TypeCarController
+com/codegym/repository/IProducerRepository.java
+ com.codegym.repository.IProducerRepository
+com/codegym/service/typeCar/TypeCarService.java
+ com.codegym.service.typeCar.TypeCarService
+com/codegym/repository/ITypeCarRepository.java
+ com.codegym.repository.ITypeCarRepository
+com/codegym/controller/ProducerController.java
+ com.codegym.controller.ProducerController
+com/codegym/service/IGeneralService.java
+ com.codegym.service.IGeneralService
+com/codegym/model/Producer.java
+ com.codegym.model.Producer
+com/codegym/repository/ICarRepository.java
+ com.codegym.repository.ICarRepository
+com/codegym/controller/CarController.java
+ com.codegym.controller.CarController
+com/codegym/model/Car.java
+ com.codegym.model.Car
+com/codegym/service/car/CarService.java
+ com.codegym.service.car.CarService
